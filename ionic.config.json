@@ -1,0 +1,7 @@
+{
+  "name": "StreetDweller",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
